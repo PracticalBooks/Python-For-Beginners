@@ -1,0 +1,3 @@
+Juan,Meneses,41
+Alejandra,Uribe,24
+Gerardo,Cartagena,30
